@@ -126,7 +126,7 @@ Open the local URL shown in the terminal (usually `http://localhost:8501`).
 1. Keep **“Also ingest bundled sample docs”** checked  
 2. Click **Ingest Documents**  
 3. Ask: `How many WFH days can probation employees take?`  
-4. Check the retrieved source chunks under the answer  
+4. Check the retrieved source chunks under the answer.  
 
 ---
 
