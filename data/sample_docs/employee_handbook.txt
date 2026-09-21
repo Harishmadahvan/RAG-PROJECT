@@ -1,0 +1,26 @@
+# Acme Corp — Employee Handbook (Sample)
+
+## About Acme Corp
+Acme Corp is a mid-size technology company that builds cloud software for retail customers.
+Work hours are Monday to Friday, 9:00 AM to 6:00 PM IST, with flexible start times between 8:00 AM and 10:00 AM.
+
+## Leave Policy
+- Permanent employees get 18 days of paid annual leave per calendar year.
+- Probation employees (first 6 months) get 1 day of leave per month.
+- Sick leave: 8 days per year for all employees.
+- Leave requests must be submitted in the HR portal at least 2 working days in advance for planned leave.
+- Emergency leave can be applied on the same day with manager approval.
+
+## Work From Home (WFH)
+- Employees may take up to 2 WFH days per week.
+- WFH must be approved by the reporting manager in the HR portal.
+- During probation, WFH is limited to 1 day per week.
+
+## Salary and Payroll
+- Salary is credited on the last working day of each month.
+- Payslips are available in the employee self-service portal.
+- Tax declarations must be submitted before 15th January each year.
+
+## IT Support
+- For laptop or access issues, raise a ticket at support.acme.example.com.
+- Critical production issues should be escalated to the on-call engineer via Slack channel #prod-alerts.

@@ -1,0 +1,23 @@
+# Acme Corp — Product FAQ (Sample)
+
+## Product Overview
+Acme Retail Cloud helps stores manage inventory, orders, and customer loyalty in one dashboard.
+The product supports multi-store setups and role-based access for managers and staff.
+
+## Pricing Plans
+- Starter: $49/month — up to 1 store and 3 users.
+- Growth: $149/month — up to 5 stores and 20 users.
+- Enterprise: custom pricing — unlimited stores, SSO, and dedicated support.
+
+## Free Trial
+New customers get a 14-day free trial of the Growth plan. No credit card is required for the trial.
+Trial data is deleted 30 days after the trial ends unless the customer upgrades.
+
+## Integrations
+Acme Retail Cloud integrates with Shopify, WooCommerce, and major payment gateways.
+API access is available on Growth and Enterprise plans.
+
+## Support SLA
+- Starter: email support within 2 business days.
+- Growth: email + chat support within 1 business day.
+- Enterprise: 24x7 support with 4-hour response for critical issues.
