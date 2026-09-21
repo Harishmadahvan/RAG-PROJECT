@@ -134,17 +134,6 @@ Open the local URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
 
-## Resume Project Description
-
-**Document Q&A System using RAG | Python, LangChain, FAISS, OpenAI, Streamlit**  
-Developed a document question-answering application using Retrieval-Augmented Generation. Users can upload PDF/TXT files, which are split into chunks, converted into embeddings, and stored in a FAISS index. On each query, relevant chunks are retrieved and passed to an LLM so answers stay based on the uploaded documents. Built a Streamlit UI to ingest documents, ask questions, and view source chunks.
-
-## Skills to add on your resume
-
-Python, LangChain, RAG, FAISS, OpenAI API, Prompt Engineering, Streamlit, Semantic Search, Git
-
----
-
 ## Git commands
 
 ```bash
